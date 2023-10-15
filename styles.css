@@ -1,0 +1,49 @@
+body {
+    background-color: #303030;
+    color: whitesmoke;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+    margin: 0;
+}
+.head {
+    background-color: transparent;
+    width: 100%;
+    top: 0;
+    vertical-align: middle;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    background-color: #212121;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+/* Inside your <style> or styles.css */
+.music-player {
+    background-color: #212121;
+    width: 500px;
+    height: 500px;
+    border-radius: 10%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+#audioPlayer {
+    margin: 0 auto;
+    display: flex;
+    vertical-align: bottom;
+}
+img {
+    width: 325px;
+    height: 325px;
+}
