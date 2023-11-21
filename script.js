@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: 'Little Dark Age', artist: 'MGMT', src: 'Little Dark Age.mp3', image: 'dark-age-image.jpg' },
         { title: 'Everybody Wants to Rule the World', artist: 'Tears for Fears', src: 'Tears for Fears.mp3', image: 'tears-for-fears-image.jpg' },
         { title: 'Five Nights at Freddys Soundtrack', artist: 'Unknown', src: 'FNAF_Soundtrack.mp3', image: 'Untitled.jpg' },
+        { title: 'I Wonder', artist: 'Kanye West', src: 'I Wonder.mp3', image: 'Wonder.jpg' },
         // Add more songs to the playlist
     ];
 
